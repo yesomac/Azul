@@ -1,0 +1,54 @@
+{
+    "name": "azul",
+    "displayName": "Azul",
+    "description": "Blue theme and something else",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Azul",
+        "Azul Night",
+        "Azul Midnight",
+        "Azul Dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Azul",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-color-theme.json"
+            },
+            {
+                "label": "Azul Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Night-color-theme.json"
+            },
+            {
+                "label": "Azul Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Midnight-color-theme.json"
+            },
+            {
+                "label": "Azul Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Dark-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.jpg",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "git@github.com:yesomac/Azul.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
