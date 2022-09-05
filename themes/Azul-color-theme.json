@@ -51,13 +51,11 @@
 		"editorGroupHeader.tabsBackground": "#232e3a",
 
 		"tab.hoverForeground": "#c5d8ee",
-    // "tab.unfocusedHoverBorder": "#7c9098",
-    "tab.unfocusedActiveBorder": "#263342",
     "editorGroupHeader.tabsBorder": "#263342",
-    "tab.unfocusedActiveBorderTop": "#263342",
+    "tab.unfocusedActiveBorderTop": "#465f7c",
     "tab.inactiveForeground": "#cdcdcd",
     "tab.unfocusedActiveForeground": "#f3f8f7",
-    "tab.unfocusedInactiveBackground": "#39495c",
+    "tab.unfocusedInactiveBackground": "#232e3a",
     "tab.unfocusedInactiveForeground": "#c0d1d8",
     
 		"editorInfo.border": "#2f4a6c",

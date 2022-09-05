@@ -2,7 +2,7 @@
     "name": "azul",
     "displayName": "Azul",
     "description": "Blue theme and something else",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.71.0"
     },
@@ -14,7 +14,13 @@
         "Azul",
         "Azul Night",
         "Azul Midnight",
-        "Azul Dark"
+        "Azul Dark",
+        "Azul Dark S",
+        "Azul Magenta",
+        "Azul Magenta Night",
+        "Azul Magenta Midnight",
+        "Azul Magenta Dark",
+        "Azul Magenta Dark S"
     ],
     "contributes": {
         "themes": [
@@ -37,6 +43,36 @@
                 "label": "Azul Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Azul-Dark-color-theme.json"
+            },
+            {
+                "label": "Azul Dark S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Dark-S-color-theme.json"
+            },
+            {
+                "label": "Azul Magenta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Magenta-color-theme.json"
+            },
+            {
+                "label": "Azul Magenta Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Magenta-Night-color-theme.json"
+            },
+            {
+                "label": "Azul Magenta Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Magenta-Midnight-color-theme.json"
+            },
+            {
+                "label": "Azul Magenta Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Magenta-Dark-color-theme.json"
+            },
+            {
+                "label": "Azul Magenta Dark S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-Magenta-Dark-S-color-theme.json"
             }
         ]
     },
