@@ -227,8 +227,8 @@
     "terminalCursor.foreground": "#344074",
 
 		//scroll
-    "scrollbarSlider.background": "#3a2769cb",
-    "scrollbarSlider.activeBackground": "#55447f",
+    "scrollbarSlider.background": "#3a276996",
+    "scrollbarSlider.activeBackground": "#4a3580",
     "scrollbarSlider.hoverBackground": "#5b456d",
 		
 		//minimap
