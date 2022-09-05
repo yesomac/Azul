@@ -13,6 +13,20 @@
 ![This is a image](https://github.com/yesomac/Azul/blob/main/img/azul-night.png?raw=true)
 
 ---
+Azul Magenta
+![This is a image](https://github.com/yesomac/Azul/blob/main/img/magenta.png?raw=true)
+
+---
+* Azul Magenta Night
+* Azul Magenta Midnight
+* Azul Magenta Dark
+* Azul Magenta Dark S
+---
+
+Azul Magenta Midnight
+![This is a image](https://github.com/yesomac/Azul/blob/main/img/magenta-min.png?raw=true)
+
+---
 **Fonts:** 
 
   * Microsoft Cascadia Code
