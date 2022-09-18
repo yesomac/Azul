@@ -79,6 +79,11 @@
                 "label": "Azul S Midnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Azul-S-Midnight-color-theme.json"
+            },
+            {
+                "label": "Azul S Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-S-Dark-color-theme.json"
             }
         ]
     },
