@@ -11,16 +11,7 @@
     ],
     "keywords": [
         "Themes",
-        "Azul",
-        "Azul Night",
-        "Azul Midnight",
-        "Azul Dark",
-        "Azul Dark S",
-        "Azul Magenta",
-        "Azul Magenta Night",
-        "Azul Magenta Midnight",
-        "Azul Magenta Dark",
-        "Azul Magenta Dark S"
+        "Azul (Blue)"
     ],
     "contributes": {
         "themes": [
@@ -73,6 +64,21 @@
                 "label": "Azul Magenta Dark S",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Azul-Magenta-Dark-S-color-theme.json"
+            },
+            {
+                "label": "Azul S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-S-color-theme.json"
+            },
+            {
+                "label": "Azul S Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-S-Night-color-theme.json"
+            },
+            {
+                "label": "Azul S Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azul-S-Midnight-color-theme.json"
             }
         ]
     },
